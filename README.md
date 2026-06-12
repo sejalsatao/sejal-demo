@@ -1,4 +1,4 @@
 # sejal-demo
 this is my first repository 
 <br>
-Author- Sejal Satao
+Author- Sejal Satao (student)
